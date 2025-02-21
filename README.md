@@ -1,5 +1,5 @@
-"## Hotel-Management-Project" 
-##Technologies Used
+## Hotel-Management-Project 
+## Technologies Used
 - HTML: Used for creating the structure and content of web pages.
 - CSS: Utilized for styling the website and enhancing its visual appearance.
 - Bootstrap: Used as a CSS framework to provide responsive design and pre-designed components.
