@@ -1,4 +1,4 @@
-"# Hotel-Management-Project" 
+"## Hotel-Management-Project" 
 ##Technologies Used
 - HTML: Used for creating the structure and content of web pages.
 - CSS: Utilized for styling the website and enhancing its visual appearance.
